@@ -1,0 +1,1 @@
+# coala-tslint-angular-image
